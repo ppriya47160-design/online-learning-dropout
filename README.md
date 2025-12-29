@@ -67,10 +67,10 @@ Early identification of students at risk of dropping out can help institutions p
 online-learning-dropout/
 
 ├── README.md
-├── data.py # Data loading & preprocessing
-├── features.py # Feature selection
-├── model.py # Model training & evaluation
-├── final_dataset.csv # Dataset
+├── data.py 
+├── features.py 
+├── model.py 
+├── final_dataset.csv 
 └── .gitignore
 
 Results
