@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CSV (optional – dataset push panna venam na)
+final_dataset.csv
+
+# VS Code
+.vscode/
+
