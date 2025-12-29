@@ -65,7 +65,7 @@ Early identification of students at risk of dropping out can help institutions p
 
 ##  Project Structure
 online-learning-dropout/
-│
+
 ├── README.md
 ├── data.py # Data loading & preprocessing
 ├── features.py # Feature selection
